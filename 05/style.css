@@ -10,6 +10,7 @@ body{
 
 .mobile-navigation summary{
     list-style: none;
+    cursor: pointer;
 }
 
 .site-header{
